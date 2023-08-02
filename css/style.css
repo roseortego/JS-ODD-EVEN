@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    box-sizing: 0;
+}
+.odd-even {
+    background-image: url(/math2.jpg);
+    width: 700px;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: blue;
+    box-shadow: 3px 3px 10px 10px blue;
+    margin-left: 20px;
+    
+}
+h1 {
+    text-align: center;
+    margin: 10px 5px;
+}
+label {
+    margin-left: 50px;
+}
+h2 {
+    margin-left: 50px;
+}
+
