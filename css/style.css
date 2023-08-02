@@ -3,7 +3,7 @@
     box-sizing: 0;
 }
 .odd-even {
-    background-image: url(/math2.jpg);
+    background-image: url("../image/math2.jpg");
     width: 700px;
     height: 400px;
     background-position: center;
